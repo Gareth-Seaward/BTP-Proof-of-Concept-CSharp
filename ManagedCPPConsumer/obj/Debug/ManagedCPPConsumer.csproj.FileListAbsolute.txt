@@ -1,0 +1,8 @@
+C:\Users\gseaward\Documents\Visual Studio 2015\Projects\CPPTutorials\ManagedCPPConsumer\ManagedCPPConsumer\bin\Debug\ManagedCPPConsumer.exe.config
+C:\Users\gseaward\Documents\Visual Studio 2015\Projects\CPPTutorials\ManagedCPPConsumer\ManagedCPPConsumer\bin\Debug\ManagedCPPConsumer.exe
+C:\Users\gseaward\Documents\Visual Studio 2015\Projects\CPPTutorials\ManagedCPPConsumer\ManagedCPPConsumer\bin\Debug\ManagedCPPConsumer.pdb
+C:\Users\gseaward\Documents\Visual Studio 2015\Projects\CPPTutorials\ManagedCPPConsumer\ManagedCPPConsumer\bin\Debug\CLIWrap.pdb
+C:\Users\gseaward\Documents\Visual Studio 2015\Projects\CPPTutorials\ManagedCPPConsumer\ManagedCPPConsumer\obj\Debug\ManagedCPPConsumer.csprojResolveAssemblyReference.cache
+C:\Users\gseaward\Documents\Visual Studio 2015\Projects\CPPTutorials\ManagedCPPConsumer\ManagedCPPConsumer\obj\Debug\ManagedCPPConsumer.exe
+C:\Users\gseaward\Documents\Visual Studio 2015\Projects\CPPTutorials\ManagedCPPConsumer\ManagedCPPConsumer\obj\Debug\ManagedCPPConsumer.pdb
+C:\Users\gseaward\Documents\Visual Studio 2015\Projects\CPPTutorials\ManagedCPPConsumer\ManagedCPPConsumer\bin\Debug\CLIWrap.dll
